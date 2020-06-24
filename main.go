@@ -45,6 +45,8 @@ func distance(x1, y1, x2, y2 float64) float64 {
 }
 
 func main() {
+
+	//test
 	var s Shape
 	s = &Circle{0, 0, 5}
 	fmt.Println(s.perimeter())
