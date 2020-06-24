@@ -50,6 +50,6 @@ func main() {
 	var s Shape
 	s = &Circle{0, 0, 5}
 	fmt.Println(s.perimeter())
-	s = &Rectangle{0, 0, 10, 10}
+	s = &Rectangle{0, 0, 100, 100}
 	fmt.Println(s.perimeter())
 }
