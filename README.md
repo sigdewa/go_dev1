@@ -2,3 +2,4 @@
 test go kayak kiye
 test push
 tambahan dari git hub
+just test
